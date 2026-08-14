@@ -1,0 +1,10 @@
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'E:\Keil 5\Keil 5 APP\ARM\ARMCC\Bin'
+Build target 'CAN1.0'
+compiling Switch_task.c...
+User\Switch_task.c(133): error:  #20: identifier "IMUHandle" is undefined
+  				vTaskResume(IMUHandle);
+User\Switch_task.c: 0 warnings, 1 error
+compiling Send_MyData.c...
+"CAN1.0\CAN1.0" - 1 Error(s), 0 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:02
